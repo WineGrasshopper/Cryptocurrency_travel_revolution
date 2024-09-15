@@ -14,7 +14,7 @@ Analysis:
 - Study 2: Quantitative validation using PLS-SEM with SmartPLS 3.0
 - Study 3: Response Surface Analysis (RSA) using Python 3.9.7
 
-  <img src="![그림1](https://github.com/user-attachments/assets/1b13a6a2-3de7-44be-9daa-921810c5b826)" alt="Figure 2" width="600"/>
+  <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/Figure/FIGURE 1. Research flow..jpg?raw=true" alt="Figure 5" width="600"/>
 
 ## Key Findings
 Identified three main categories of experiential values in cryptocurrency-based OTAs:
