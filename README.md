@@ -10,7 +10,6 @@ Data Collection:
 - 2,000 reviews randomly sampled for content analysis
 
 Analysis:
-  <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/blob/64a2ec4cd498121939a80f3ee0777c8645d60a45/Figure/FIGURE%201.%20Research%20flow..jpg?raw=true" alt="Figure 5" width="600"/>
 - Study 1: Qualitative content analysis using MAXQDA 24.0
   <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/blob/8d8bcc0252f4ab0b1df259468bff31f6cf0cb6ed/Figure/FIGURE%202.%20Content%20analysis%20of%20customer%20experiential%20value%20in%20cryptocurrency-based%20OTAs.jpg?raw=true" alt="Figure 5" width="600"/>
 - Study 2: Quantitative validation using PLS-SEM with SmartPLS 3.0
