@@ -10,11 +10,13 @@ Data Collection:
 - 2,000 reviews randomly sampled for content analysis
 
 Analysis:
-- Study 1: Qualitative content analysis using MAXQDA 24.0
-- Study 2: Quantitative validation using PLS-SEM with SmartPLS 3.0
-- Study 3: Response Surface Analysis (RSA) using Python 3.9.7
-
   <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/blob/64a2ec4cd498121939a80f3ee0777c8645d60a45/Figure/FIGURE%201.%20Research%20flow..jpg?raw=true" alt="Figure 5" width="600"/>
+- Study 1: Qualitative content analysis using MAXQDA 24.0
+  <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/blob/8d8bcc0252f4ab0b1df259468bff31f6cf0cb6ed/Figure/FIGURE%202.%20Content%20analysis%20of%20customer%20experiential%20value%20in%20cryptocurrency-based%20OTAs.jpg?raw=true" alt="Figure 5" width="600"/>
+- Study 2: Quantitative validation using PLS-SEM with SmartPLS 3.0
+  <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/blob/8d8bcc0252f4ab0b1df259468bff31f6cf0cb6ed/Figure/FIGURE%203.%20Proposed%20theoretical%20framework..jpg?raw=true" alt="Figure 5" width="600"/>
+- Study 3: Response Surface Analysis (RSA) using Python 3.9.7
+  <img src="https://github.com/WineGrasshopper/Cryptocurrency_travel_revolution/blob/8d8bcc0252f4ab0b1df259468bff31f6cf0cb6ed/Figure/FIGURE%206.%20Results%20of%20RSA.jpg?raw=true" alt="Figure 5" width="600"/>
 
 ## Key Findings
 Identified three main categories of experiential values in cryptocurrency-based OTAs:
@@ -26,8 +28,6 @@ Developed and validated a theoretical model showing:
 - Positive relationships between experiential value, platform trust, cryptocurrency trust, and continuance use intention
 - Moderating effects of market environment volatility and digital financial literacy
 - Interaction effects between platform trust and cryptocurrency trust on continuance use intention
-
-  <img src="https://github.com/WineGrasshopper/Unveiling_the_dark_side_of_safari_tourism/blob/0e5e5152ea79f091383bbee230299977b87d97e3/Figure/Fig.5..jpg?raw=true" alt="Figure 5" width="600"/>
 
 ## Implications
 Theoretical:
