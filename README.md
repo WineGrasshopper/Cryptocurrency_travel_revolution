@@ -1,4 +1,4 @@
-# Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatile
+# Cryptocurrency travel revolution: Unraveling the mystery of consumer trust in market environment volatility
 
 ## Abstract
 This study analyzed factors influencing consumer trust in cryptocurrency-based Online Travel Agencies (OTAs), focusing on trust dynamics and market volatility. Study 1, using qualitative content analysis, identified functional, emotional, and conditional values in OTAs. Study 2 employed PLS-SEM to confirm the positive impact of these values on platform and cryptocurrency trust, and examined the moderating effects of market volatility and digital financial literacy. Study 3 utilized RSA (Response Surface Analysis) to find that trust imbalances negatively affected continuance intention. The research underscored the need for OTAs to implement trust-building strategies and educational programs to enhance digital financial literacy, offering new insights into the interplay between trust and digital assets in volatile markets
